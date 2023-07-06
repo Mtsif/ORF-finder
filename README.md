@@ -1,9 +1,5 @@
 # Python
 Prokaryotic ORF finder
-Certainly! Here's an example README file for your GitHub page:
-
-```
-# Bacteria ORF Search
 
 This repository contains a Python script that searches for Open Reading Frames (ORFs) in a bacterial DNA sequence. ORFs are regions of DNA that potentially encode proteins.
 
